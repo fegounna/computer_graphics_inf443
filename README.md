@@ -1,7 +1,10 @@
 # Practice code for INF443 - 3D Graphics
 
 
-Uploading INF443 - Made with Clipchamp_1717712627629.mp4…
+
+https://github.com/fegounna/computer_graphics_inf443/assets/130999532/479c64c7-12b5-4d6c-a568-2475b6f72ebe
+
+
 
 
 ## Download
